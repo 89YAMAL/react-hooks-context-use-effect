@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  padding: 0 30px;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+  max-width: 300px;
+}
+
+.App div {
+  padding: 10px;
+}
+
+li {
+  padding: 10px 15px;
+  border: 1px solid #bbb;
+}
+
+.List li:hover {
+  color: #999;
+  cursor: pointer;
+}
